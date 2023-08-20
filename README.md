@@ -2,17 +2,6 @@
 
 This is a real-time news application built using Django that fetches news summaries from the Inshorts API and displays them on a webpage. Users can stay updated with the latest news in a concise format.
 
-## Table of Contents
-
-- [Features](#features)
-- [Getting Started](#getting-started)
-  - [Prerequisites](#prerequisites)
-  - [Installation](#installation)
-  - [Configuration](#configuration)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
-
 ## Features
 
 - Fetches and displays real-time news summaries from the Inshorts API.
