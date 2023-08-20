@@ -1,0 +1,40 @@
+
+.navbar-brand {
+    color: white;
+    font-weight: bold;
+}
+
+.nav-link {
+    color: #fff;
+}
+
+.card {
+    margin: 2rem;
+    height: 35rem;
+}
+
+.card:hover {
+    transform: scale(1.03);
+}
+
+.card-img-top {
+    height: 20rem;
+}
+
+.card-title {
+    font-size: 1.25rem;
+    margin-bottom: 0.5rem;
+}
+
+.card-text {
+    font-size: 0.8rem;
+    color: #6c757d;
+}
+
+
+
+@media (max-width: 767px) {
+    .card {
+        margin-bottom: 1rem;
+    }
+}
